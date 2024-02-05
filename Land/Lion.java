@@ -5,8 +5,7 @@ import edu.usc.csci310.ica.subjects.Animal;
 public class Lion implements Animal {
 
 	public void makeNoise() {
-		// TODO Auto-generated method stub
-
+		System.out.println("RAWRRRR!");
 	}
 
 	public void move() {
