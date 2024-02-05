@@ -5,8 +5,7 @@ import edu.usc.csci310.ica.subjects.Animal;
 public class Dinosaur implements Animal {
 
 	public void makeNoise() {
-		// TODO Auto-generated method stub
-
+		System.out.println("RAWR XD");
 	}
 
 	public void move() {
